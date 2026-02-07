@@ -1,13 +1,13 @@
 # for a description of available keys, see https://github.com/typst/packages/?tab=readme-ov-file#package-format
 
 [package]
-name = "basic-resume"
-version = "0.2.9"
+name = "my-resume"
+version = "0.1.0"
 entrypoint = "src/lib.typ"
-authors = ["Stephen Xu <https://stuxf.dev>"]
+authors = ["Dan Li"]
 license = "Unlicense"
 description = "A simple, standard resume, designed to work well with ATS."
-repository = "https://github.com/stuxf/basic-typst-resume-template"
+repository = "https://github.com/danli-ds/basic-typst-resume-template"
 keywords = ["cv", "resume", "ATS"]
 categories = ["cv"]
 exclude = [
